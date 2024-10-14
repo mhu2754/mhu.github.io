@@ -2,17 +2,14 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to LinkedIn](https://www.linkedin.com/in/michael-hu-a889a225b).
 
 Work in progress...
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# RCOPY
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+'rcopy' is a linux command that allows a user to copy a file from one location/ports to another through sockets. In my own implementation, I utilized UDP sockets to transfer data, along with a sliding/circular window buffer to keep track of data, Ready Receive (RR), and Selective Reject (SREJ) packets. 
 
 ## Header 2
 
