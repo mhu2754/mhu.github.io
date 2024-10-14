@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to LinkedIn](https://www.linkedin.com/in/michael-hu-a889a225b).
 
-There should be whitespace between paragraphs.
+Work in progress...
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
