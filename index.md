@@ -3,13 +3,13 @@ layout: default
 ---
 
 
-[Link to LinkedIn](https://www.linkedin.com/in/michael-hu-a889a225b).
+[Link to LinkedIn](https://www.linkedin.com/in/michael-hu-a889a225b)
 
 Work in progress...
 
 # Table of Contents
 
-## 1. RCOPY
+## 1. [RCOPY](./rcopy.html)
 ## 2. Snake Game
 ## 3. Digital Lock
 ## 4. Frequency Measurement and Function Generator
