@@ -7,7 +7,7 @@ layout: default
 
 Work in progress...
 
-#Table of Contents
+# Table of Contents
 
 ## 1. RCOPY
 ## 2. Snake Game
