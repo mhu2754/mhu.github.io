@@ -9,19 +9,15 @@ Work in progress...
 
 # Table of Contents
 
-## 1. [RCOPY](./rcopy.html)
+### 1. [RCOPY](./rcopy.html)
 
-## 2. [Snake Game](./snake.html)
+### 2. [Snake Game](./snake.html)
 
-## 3. [Digital Lock](./digital_lock.html)
+### 3. [Digital Lock](./digital_lock.html)
 
-## 4. [Frequency Measurement and Function Generator](./freq_func.html)
+### 4. [Frequency Measurement and Function Generator](./freq_func.html)
 
-## 5. [Software Defined Radio (Work in Progress)](./sdr.html)
-
-# RCOPY
-
-'rcopy' is a linux command that allows a user to copy a file from one location/ports to another through sockets. In my own implementation, I utilized UDP sockets to transfer data, along with a sliding/circular window buffer to keep track of data, Ready Receive (RR), and Selective Reject (SREJ) packets. 
+### 5. [Software Defined Radio (Work in Progress)](./sdr.html)
 
 ## Header 2
 
