@@ -17,7 +17,7 @@ Work in progress...
 
 ## 4. [Frequency Measurement and Function Generator](./freq_func.html)
 
-## 5. [Software Defined Radio](./sdr.html)
+## 5. [Software Defined Radio (Work in Progress)](./sdr.html)
 
 # RCOPY
 
