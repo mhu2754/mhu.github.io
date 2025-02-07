@@ -10,8 +10,11 @@ Work in progress...
 # Table of Contents
 
 ## 1. [RCOPY](./rcopy.html)
+
 ## 2. Snake Game
+
 ## 3. Digital Lock
+
 ## 4. Frequency Measurement and Function Generator
 
 # RCOPY
