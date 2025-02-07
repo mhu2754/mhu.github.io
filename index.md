@@ -7,6 +7,13 @@ layout: default
 
 Work in progress...
 
+#Table of Contents
+
+## 1. RCOPY
+## 2. Snake Game
+## 3. Digital Lock
+## 4. Frequency Measurement and Function Generator
+
 # RCOPY
 
 'rcopy' is a linux command that allows a user to copy a file from one location/ports to another through sockets. In my own implementation, I utilized UDP sockets to transfer data, along with a sliding/circular window buffer to keep track of data, Ready Receive (RR), and Selective Reject (SREJ) packets. 
