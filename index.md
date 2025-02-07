@@ -11,11 +11,11 @@ Work in progress...
 
 ## 1. [RCOPY](./rcopy.html)
 
-## 2. Snake Game
+## 2. [Snake Game](./snake.html)
 
-## 3. Digital Lock
+## 3. [Digital Lock](./digital_lock.html)
 
-## 4. Frequency Measurement and Function Generator
+## 4. [Frequency Measurement and Function Generator](./freq_func.html)
 
 # RCOPY
 
