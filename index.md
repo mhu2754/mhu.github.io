@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Link to LinkedIn](https://www.linkedin.com/in/michael-hu-a889a225b)
+[Link to LinkedIn](https://www.linkedin.com/in/michaelhu03)
 
 Work in progress...
 
